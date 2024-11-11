@@ -51,13 +51,15 @@ DOVE加速器梯子能帮助其实现更快速的机场节点、更靠谱稳定�
 
 ![2024-10-13 09 03 50](https://github.com/user-attachments/assets/6db99ea3-ca83-47d1-b811-be1e5df28de0)
 
-[访问官网](https://dove8.cc/a.php?alavBTtF8UB)
+### [访问官网](https://dove8.cc/a.php?alavBTtF8UB)
 
 
-多数平台都支持全平台客户端。各平台客户端推荐：
+##### 协议分类：
 
-Windows 推荐使用 clash for window/netch
-Mac 推荐使用 clashX/clash for windows 的 mac 版本/有钱的买 surge
-IOS 推荐小火箭 Shadowrocket/quantumultX/有钱的买 surge
-安卓推荐 Surfboard、clashforAndroid(CFA) 、v2rayNG
-linux 推荐 shell clash 或者 clash for windows 的 linux 版本
+支持SS协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）
+
+支持SSR协议（支持客户端：surfoard和surge，支持shadowrocksR、clash系列、v2rayN、v2raNG、小火箭shadowrocket、quanmultX、loon、stash、nekoray、nekobox等）
+
+支持Trojan协议（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等)
+
+支持Vmess/V2ray（支持客户端：不支持shadowrocksR，支持clash系列、v2rayN、v2raNG、surfoard、小火箭shadowrocket、quanmultX、loon、stash、surge、sing-box、hiddify、nekoray、nekobox等）
